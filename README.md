@@ -1,4 +1,3 @@
-
 # ESP32_GPS
 Getting GPS data from the u-blox NEO-6M GPS module
 
@@ -9,3 +8,5 @@ I first tried the very comprehensive micropyGPS.py from Michael Calvin McCoy, bu
 nmea.py just needs all the serial data throwing at it and it populates a few variables.
 
 To see how to use it see gps.py. This uses my ST7735 library to display the GPS data on a small TFT.
+
+You can see more on my website at http://www.indianbeantree.co.uk/wiki/index.php?title=ESP32_MicroPython_GPS
