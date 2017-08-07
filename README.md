@@ -10,3 +10,6 @@ nmea.py just needs all the serial data throwing at it and it populates a few var
 To see how to use it see gps.py. This uses my ST7735 library to display the GPS data on a small TFT.
 
 You can see more on my website at http://www.indianbeantree.co.uk/wiki/index.php?title=ESP32_MicroPython_GPS
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
